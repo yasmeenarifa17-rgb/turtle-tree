@@ -66,5 +66,5 @@ The script starts by:
 
 4.Random angles and branch length reduction make every tree look unique
 
-🎓 developer 
+🎓 developer -
 MOHAMMAD ARIFA YASMEEN 
