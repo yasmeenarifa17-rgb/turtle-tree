@@ -65,3 +65,6 @@ The script starts by:
 3.Using a recursive function (draw_branch) to draw smaller and smaller branches
 
 4.Random angles and branch length reduction make every tree look unique
+
+🎓 developer 
+MOHAMMAD ARIFA YASMEEN 
